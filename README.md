@@ -25,6 +25,9 @@
 
 ## 如何貢獻
 
+- 討論區：
+　　- [推薦] g0v Slack Channel #edu-school-學校存續議題
+　　- FB 社團 [零時小學校 Sch001 學習中心](https://www.facebook.com/groups/240879797438433)
 - 這個專案目前還沒進入到資料分析與視覺化的實作階段
 - 盡量使用 bash 指令與 GNU project 指令
 - 除非有不可替代性，否則維持第一項原則
